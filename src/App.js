@@ -4,7 +4,7 @@ import MovieCard from "./MovieCard";
 import "./App.css";
 import SearchIcon from "./search.svg";
 
-const API_URL = "http://www.omdbapi.com?apikey=78c6515a";
+const API_URL = "https://www.omdbapi.com?apikey=78c6515a";
 
 const movie1 = {
   Title: "The Cabin in the Woods",

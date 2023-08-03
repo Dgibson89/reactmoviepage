@@ -26,7 +26,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    serachMovies("Cabin in the woods");
+    serachMovies("");
   }, []);
 
   return (
